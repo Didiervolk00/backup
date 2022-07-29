@@ -2,7 +2,7 @@ import os
 import subprocess
 from datetime import date
 
-base_dir = r"C:\Users\DidierVolkFlikweertV\Documents\backuptest"
+base_dir = r"C:\Users\Medewerker\Documents\Backup"
 
 xavier_ip = "10.23.xxx.yyy"
 
